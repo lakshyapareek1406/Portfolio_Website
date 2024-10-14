@@ -39,7 +39,7 @@ const Profile = () => {
          </p>
 
          <div className='my-8' data-aos="fade-in" data-aos-duration='2000'>
-           <a href='https://drive.google.com/file/d/1udfqjdyeTUH_chHBbhcLc7k0lfs8Wxh9/view?usp=sharing' className='px-6 py-3 w-full rounded-xl mr-4 border border-gray-400 hover:bg-gradient-to-br  from-cyan-500 to-blue-500  hover:from-cyan-700 hover:to-blue-700 text-white hover:border-none'>
+           <a href='' className='px-6 py-3 w-full rounded-xl mr-4 border border-gray-400 hover:bg-gradient-to-br  from-cyan-500 to-blue-500  hover:from-cyan-700 hover:to-blue-700 text-white hover:border-none'>
            Download CV
            </a> 
 
