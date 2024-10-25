@@ -5,7 +5,6 @@ import { Routes, Route, Navigate } from "react-router-dom";
 //Passenger routes
 import Layout from "../Layout/Layout";
 import Home from "../Pages/Profile";
-
 import Skill from "../Pages/Skills";
 import Project from "../Pages/Project";
 import About from "../Pages/About";
